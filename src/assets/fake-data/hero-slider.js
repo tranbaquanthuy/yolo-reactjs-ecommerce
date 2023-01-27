@@ -4,8 +4,8 @@ const img3 = require("../images/slider/slide_3.png").default
 
 const heroSliderData = [
     {
-        title: "Polo nữ Pima cao cấp",
-        description: "Nhắc đến sự đẳng cấp là không thể không nhắc đến dòng vải pima. Nó tạo nên chất lượng tốt nhất cho bất kỳ sản phẩm thời trang nào. Sợi vải pima dài và dày hơn sợi cotton thông thường gấp đôi nhờ công nghệ dệt tân tiến. Điều đó làm cho kết cấu áo polo chắc chắn, bền chặt, hạn chế tối đa xù lông, mềm mượt, bền màu, vô cùng đảm bảo sức khoẻ người dùng",
+        title: "S.H.Figuarts",
+        description: "Simple Style Heroic Action Figures and Arts, thường được gọi là S.H. Figuarts là dòng sản phẩm sưu tập mô hình nhân vật chất lượng cao do Tamashii Nations, một bộ phận chuyên biệt của Bandai sản xuất. Dòng đồ chơi này ra mắt vào năm 2008 và được nhắm mục tiêu đến những người hâm mộ trưởng thành của loạt phim Kamen Rider với giá thành cao và các mô hình nhỏ được thể hiện chính xác đến từng chi tiết. Khởi đầu chỉ đơn giản là người kế thừa dòng đồ chơi Souchaku Henshin, S.H.Figuarts đã tiếp tục phát triển trong những năm qua với sự tập trung ngày càng nhiều vào tỷ lệ chính xác, điêu khắc và chi tiết.",
         img: img1,
         color: "blue",
         path: "/catalog/ao-thun-dinosaur-01"
