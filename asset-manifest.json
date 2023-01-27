@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/yolo-reactjs-ecommerce/static/css/main.6ccb44f5.chunk.css",
-    "main.js": "/yolo-reactjs-ecommerce/static/js/main.9d4b7688.chunk.js",
-    "main.js.map": "/yolo-reactjs-ecommerce/static/js/main.9d4b7688.chunk.js.map",
+    "main.css": "/yolo-reactjs-ecommerce/static/css/main.f1a9a52a.chunk.css",
+    "main.js": "/yolo-reactjs-ecommerce/static/js/main.85a98ecd.chunk.js",
+    "main.js.map": "/yolo-reactjs-ecommerce/static/js/main.85a98ecd.chunk.js.map",
     "runtime-main.js": "/yolo-reactjs-ecommerce/static/js/runtime-main.ffd56220.js",
     "runtime-main.js.map": "/yolo-reactjs-ecommerce/static/js/runtime-main.ffd56220.js.map",
     "static/js/2.620b8d2c.chunk.js": "/yolo-reactjs-ecommerce/static/js/2.620b8d2c.chunk.js",
@@ -10,9 +10,9 @@
     "static/js/3.de03aa7e.chunk.js": "/yolo-reactjs-ecommerce/static/js/3.de03aa7e.chunk.js",
     "static/js/3.de03aa7e.chunk.js.map": "/yolo-reactjs-ecommerce/static/js/3.de03aa7e.chunk.js.map",
     "index.html": "/yolo-reactjs-ecommerce/index.html",
-    "static/css/main.6ccb44f5.chunk.css.map": "/yolo-reactjs-ecommerce/static/css/main.6ccb44f5.chunk.css.map",
+    "static/css/main.f1a9a52a.chunk.css.map": "/yolo-reactjs-ecommerce/static/css/main.f1a9a52a.chunk.css.map",
     "static/js/2.620b8d2c.chunk.js.LICENSE.txt": "/yolo-reactjs-ecommerce/static/js/2.620b8d2c.chunk.js.LICENSE.txt",
-    "static/media/Logo-2.3f227664.png": "/yolo-reactjs-ecommerce/static/media/Logo-2.3f227664.png",
+    "static/media/Logo-2.bb7529d9.png": "/yolo-reactjs-ecommerce/static/media/Logo-2.bb7529d9.png",
     "static/media/banner.3c5f3ab8.png": "/yolo-reactjs-ecommerce/static/media/banner.3c5f3ab8.png",
     "static/media/boxicons.min.css": "/yolo-reactjs-ecommerce/static/media/boxicons.cbd149c5.ttf",
     "static/media/product-01 (1).jpg": "/yolo-reactjs-ecommerce/static/media/product-01 (1).7badc1d8.jpg",
@@ -39,14 +39,14 @@
     "static/media/product-11 (2).jpg": "/yolo-reactjs-ecommerce/static/media/product-11 (2).c9bc2660.jpg",
     "static/media/product-12 (1).jpg": "/yolo-reactjs-ecommerce/static/media/product-12 (1).35b8b824.jpg",
     "static/media/product-12 (2).jpg": "/yolo-reactjs-ecommerce/static/media/product-12 (2).54514ffa.jpg",
-    "static/media/slide_1.png": "/yolo-reactjs-ecommerce/static/media/slide_1.05395af1.png",
+    "static/media/slide_1.png": "/yolo-reactjs-ecommerce/static/media/slide_1.4093102f.png",
     "static/media/slide_2.png": "/yolo-reactjs-ecommerce/static/media/slide_2.a5d8646f.png",
     "static/media/slide_3.png": "/yolo-reactjs-ecommerce/static/media/slide_3.6e2ad4f2.png"
   },
   "entrypoints": [
     "static/js/runtime-main.ffd56220.js",
     "static/js/2.620b8d2c.chunk.js",
-    "static/css/main.6ccb44f5.chunk.css",
-    "static/js/main.9d4b7688.chunk.js"
+    "static/css/main.f1a9a52a.chunk.css",
+    "static/js/main.85a98ecd.chunk.js"
   ]
 }
